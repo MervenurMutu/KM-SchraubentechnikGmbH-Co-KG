@@ -343,6 +343,7 @@ namespace Schraubenprogramm
 
 
 
+
         //KOPF
         //Kopf Skizze erzeugen (gilt für Vier- und Sechkant)
         #region Skizze erzeugen 
